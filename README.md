@@ -11,9 +11,9 @@ de T.I, enquanto aprimoro meus conhecimentos em Front-end.
 ### 𝑺𝒐𝒃𝒓𝒆 𝒎𝒊𝒎
 
 - ➥ Experiência com suporte técnico e manutenção
--- ➥ Estudando HTML, CSS e JavaScript
---- ➥ Interesse em automação e desenvolvimento web
----- ➥ Objetivo: evoluir profissionalmente em T.I
+- ➥ Estudando HTML, CSS e JavaScript
+- ➥ Interesse em automação e desenvolvimento web
+- ➥ Objetivo: evoluir profissionalmente em T.I
 
 ### Tᴇᴄɴᴏʟᴏɢɪᴀꜱ
 
