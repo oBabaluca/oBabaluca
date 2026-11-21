@@ -36,7 +36,7 @@ Hoje estou focado em evoluir como profissional de T.I e como desenvolvedor, prin
 ###  [Momo Pottery Shop](https://github.com/oBabaluca/momo-pottery-shop)
 Website desenvolvido para uma loja de cerâmica artesanal, com foco em identidade visual, apresentação dos produtos e experiência visual delicada.
 
-###  [sucessfy](https://github.com/oBabaluca/sucessfy)
+###  [Sucessfy](https://github.com/oBabaluca/sucessfy)
 Projeto inspirado em um player de música, com uma proposta visual autoral e uma temática criativa baseada no universo do Caçarola.
 
 ---
