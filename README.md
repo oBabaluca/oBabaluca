@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-github.png" alt="Banner do perfil oBabaluca" width="100%" />
+  <img src="./assets/banner-github.png" width="100%" alt="Banner Tonhão">
 </p>
 
 <h1 align="center">Opa, pode me chamar de Tonhão.</h1>
