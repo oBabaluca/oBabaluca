@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/" width="60%" alt="Banner oBabaluca">
+  <img src="./assets/newbanner.png" width="60%" alt="Banner oBabaluca">
 </p>
 
 <h1 align="center">Opa, pode me chamar de Tonhão.</h1>
